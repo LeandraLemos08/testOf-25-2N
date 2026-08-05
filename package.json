@@ -1,0 +1,23 @@
+{
+  "name": "testof-25-2n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandraLemos08/testOf-25-2N.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandraLemos08/testOf-25-2N/issues"
+  },
+  "homepage": "https://github.com/LeandraLemos08/testOf-25-2N#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
